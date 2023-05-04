@@ -1,1 +1,2 @@
 Revert 1:
+This is comparison lecture
