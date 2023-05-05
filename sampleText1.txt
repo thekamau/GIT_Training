@@ -2,3 +2,4 @@ This is a sample fil
 
 This is an additional text to verify that the changes done in the local repository are updated in the GIT Repo.
 e
+This is stash lecture, change in file 1
